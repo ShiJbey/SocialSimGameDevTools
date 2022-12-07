@@ -1,5 +1,12 @@
 # Social Simulation Game Dev Tools
-List of tools for building socially-aware characters, character relationships, and NPC social interactions in games
+
+This is a list of tools for building socially-aware characters, character relationships, and NPC social interactions in games. 
+I found these on the various asset stores/marketplaces using the search terms: life simulation, social simulation, personality,
+relationships, and factions.
+
+## Godot
+
+None found
 
 ## Unity
 
