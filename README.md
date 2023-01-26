@@ -20,3 +20,5 @@ None found
 * [Life Sim Template](https://www.unrealengine.com/marketplace/en-US/product/life-sim-template/questions)
 * [Easy Factions](https://www.unrealengine.com/marketplace/en-US/product/easy-fractions)
 * [Affinity and Relationships (Omega Gameplay System)](https://www.unrealengine.com/marketplace/en-US/product/omega-gameplay-system-affinity-relationships)
+* [Factions Extension by PipeRift](https://github.com/PipeRift/FactionsExtension)
+* [Basic Faction System by Simple Game Studios](https://www.unrealengine.com/marketplace/en-US/product/basic-faction-system)
