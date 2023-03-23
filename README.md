@@ -14,6 +14,9 @@ None found
 * [EmoSim](https://assetstore.unity.com/packages/tools/ai/emosim-emotion-simulation-174898)
 * [(FREE) Inworld AI](https://assetstore.unity.com/packages/tools/ai/ai-characters-dialogue-for-unity-inworld-229406)
 * [(FREE) Avatar Generator](https://assetstore.unity.com/packages/tools/avatar-generator-81473)
+* [CIVIL-AI-SYSTEM](https://assetstore.unity.com/packages/tools/ai/civil-ai-system-231069)
+* [Cerebrum Background Simulation](https://assetstore.unity.com/packages/tools/ai/cerebrum-background-simulation-161424#content)
+* [SIM Engine: 2D Simulation Engine](https://assetstore.unity.com/packages/templates/systems/sim-engine-2d-simulation-engine-120797)
 
 ## Unreal Engine
 
