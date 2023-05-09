@@ -17,6 +17,7 @@ None found
 * [CIVIL-AI-SYSTEM](https://assetstore.unity.com/packages/tools/ai/civil-ai-system-231069)
 * [Cerebrum Background Simulation](https://assetstore.unity.com/packages/tools/ai/cerebrum-background-simulation-161424#content)
 * [SIM Engine: 2D Simulation Engine](https://assetstore.unity.com/packages/templates/systems/sim-engine-2d-simulation-engine-120797)
+* [Love/Hate](https://assetstore.unity.com/packages/tools/ai/love-hate-33063)
 
 ## Unreal Engine
 
