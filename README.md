@@ -11,7 +11,7 @@ None found
 ## Unity
 
 * [Real Memory / Extreme AI Bundle](https://assetstore.unity.com/packages/tools/ai/realmemory-v1-extreme-ai-v2-bundle-85239)
-* [EmoSim](https://assetstore.unity.com/packages/tools/ai/emosim-emotion-simulation-174898)
+* [(DEPRECATED) EmoSim](https://assetstore.unity.com/packages/tools/ai/emosim-emotion-simulation-174898)
 * [(FREE) Inworld AI](https://assetstore.unity.com/packages/tools/ai/ai-characters-dialogue-for-unity-inworld-229406)
 * [(FREE) Avatar Generator](https://assetstore.unity.com/packages/tools/avatar-generator-81473)
 * [CIVIL-AI-SYSTEM](https://assetstore.unity.com/packages/tools/ai/civil-ai-system-231069)
